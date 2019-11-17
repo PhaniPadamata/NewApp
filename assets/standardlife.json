@@ -1,0 +1,476 @@
+[
+	{
+		"clientLogo": ""
+	},
+	{
+		"menu": [
+			{
+				"name": "Standard Life",
+				"participants": [
+					{
+						"designation": "Delivery Service Manager",
+						"name": "Stuart MacLeod"
+					},
+					{
+						"designation": "Senior Systems Developer",
+						"name": "Gordon Mccallum"
+					}
+				]
+			},
+			{
+				"name": "TCS",
+				"participants": [
+					{
+						"designation": "Delivery Partner,  Standard Life – TCS relationship",
+						"name": "Mini O"
+					},
+					{
+						"designation": "Business Relationship Manager",
+						"name": "Anoj Babu"
+					},
+					{
+						"designation": "Senior Analyst, Java",
+						"name": "Manoj Tripathi "
+					}
+				]
+			}
+		]
+	},
+	{
+		"contactList": [
+			{
+				"location": "",
+				"name": "Mini O",
+				"phone": "+91 9740355704",
+				"phone2": ""
+			},
+			{
+				"location": "",
+				"name": "Anoj Babu",
+				"phone": "+44 7777777777",
+				"phone2": ""
+			},
+			{
+				"location": "",
+				"name": "Manoj Tripathi",
+				"phone": "+44 7459364949",
+				"phone2": ""
+			},
+			{
+				"location": "",
+				"name": "Samrat Dhar",
+				"phone": "+44 7448266041",
+				"phone2": ""
+			},
+			{
+				"location": "",
+				"name": "TCS Global Axis H Block",
+				"phone": "080-66820001",
+				"phone2": "080-66820431"
+			}
+		]
+	},
+	{
+		"locations_agenda": [
+			{
+				"agenda": [
+					{
+						"content": "Reach Global Axis TCS Office\\Clear Security<p><b>Owner:</b> Vishal/Tushar</p>",
+						"date": "",
+						"location": "",
+						"presenter": "",
+						"session": "",
+						"time": "11:00 AM - 11:30 AM "
+					},
+					{
+						"content": "<b>Topic : </b>Welcome and Introduction<p><b>Discussion Items: </b><ul> <li> Introduction and context setting</li><li>Explain the agenda for the week </li></ul></p> <p> <b>Location: </b> Vishwamitra  Meeting Room </p> <p><b>Owner:</b> Vishal </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "11:30 AM - 11:40 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Connect with Team  <p><b>Discussion Items: </b> Introduction of TCS Marvel team and high level overview from the customer about project Marvel</p> <p> <b>Location: </b> Vishwamitra  Meeting Room </p> <p><b>Owner:</b> Stuart/Gordon </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": " 11:40 AM - 12:15 PM"
+					},
+					{
+						"content": "Lunch  <p> <b>Location: </b> Taj Vivanta </p> <p><b>Owner:</b> Mini/Raghu/Vishal</p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "12:15 PM -02:15 PM"
+					},
+					{
+						"content": "<b>Topic : </b>Meet the team and ODC walk thru <p><b>Discussion Items: </b>Come to ODC and meet the team</p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "02:15 PM - 02:45 PM"
+					},
+					{
+						"content": "<b>Topic : </b>break/Setup workplace in meeting room  <p> <b>Location: </b> Sandipani Meeting Room </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "02:30 PM - 03:00 PM ",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Meet with Leadership team   <p><b>Discussion Items: </b> Review of journey, way forward, attitudes and differentiators </p> <p> <b>Location: </b> Vishwamitra  Meeting Room </p> <p><b>Owner:</b> Mini </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "03:00 PM - 03:30 PM"
+					},
+					{
+						"content": "Break",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:00 PM - 04:30 PM",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Working with team in meeting room <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:30 PM - 06:00 PM",
+						"topic": ""
+					},
+					{
+						"content": "Wrap up & leave for dinner (Team Dinner)",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "06:00 PM",
+						"topic": ""
+					}
+				],
+				"name": "28th"
+			},
+			{
+				"agenda": [
+					{
+						"Hotel": "",
+						"content": "Reach Global Axis TCS Office\\Clear Security <p><b>Owner:</b> Tushar </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "10:00 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with team in meeting room <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "10:00 AM - 11:00 AM",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Connect with DEG team   <p><b>Discussion Items: </b> Quality gates followed at TCS , Best practices followed in customer programmes in AGILE, DevOps engagements.</p> <p> <b>Location: </b> Kripa  Meeting Room, 6th Floor </p> <p><b>Owner:</b> Suvarna </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "11:00 AM - 12:00 PM"
+					},
+					{
+						"content": "Lunch - Team Lunch in EDR <p><b>Owner:</b> Tushar/Akash </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "12:00 PM - 01:30 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with team in meeting room <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "01:30 PM- 03 :00 PM"
+					},
+					{
+						"content": "Break",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "03:00 PM - 03:15 PM ",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Innovation lab <p><b>Discussion Items: </b>Walk Through TCS Innovation Lab </p> <p> <b>Location: </b> Global Axis H Block, 8th Floor</p> <p><b>Owner:</b> Innovation Team </p> ",
+						"date": "",
+						"l  ocation": "",
+						"session": "",
+						"time": "03:15 PM - 04:45 PM ",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Working with team in meeting room <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:45 PM - 06:00 PM "
+					},
+					{
+						"content": "Wrap up & leave for the hotel",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "06:00 PM"
+					}
+				],
+				"name": "29th"
+			},
+			{
+				"agenda": [
+					{
+						"content": "Reach Global Axis TCS Office\\Clear Security <p><b>Owner:</b> Abhishek/Praneeth </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "09:30 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with team  <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "10:00 PM - 11:00 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Team meeting for project UNST <p><b>Discussion Items: </b>Discuss team progress, issues/showstoppers and plan for next few months </p> <p> <b>Location: </b> ODC 11 Meeting Room </p> <p><b>Owner:</b> Vishal/Archana </p> ",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "11:00 PM - 12:00 PM"
+					},
+					{
+						"content": "Lunch - Team Lunch in EDR  <p><b>Owner:</b> Tushar/Akash </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "12:00 AM  - 01:30 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "01:30 PM - 03:30 PM"
+					},
+					{
+						"content": "<b>Topic: </b> TCS journey from FaST to project Marvel <p><b>Discussion Items: </b><p>HTCS learnings from FaST and incorporating them in project Marvel</p> <p> <b>Location: </b> Fifth Floor - iVC Room </p> <p><b>Owner:</b> Nabendu/Dharmesh</p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "03:30 PM - 04:30 PM",
+						"topic": ""
+					},
+					{
+						"content": "Wrap up & leave for city center - Dinner <p><b>Owner:</b> Mohan/Bharani </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:30 PM "
+					}
+				],
+				"name": "30th"
+			},
+			{
+				"agenda": [
+					{
+						"content": "Reach Global Axis TCS Office\\Clear Security <p><b>Owner:</b> Abhishek/Praneeth </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "09:30 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with the team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "10:00 AM - 11:30 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Marvel - FRP focus <p><b>Discussion Items: </b><p>Upcoming FRP work for project Marvel</p> <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "11:30 AM - 12:30 PM"
+					},
+					{
+						"content": "Lunch Outside<p><b>Owner:</b> Dharmesh/Akash </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "12:30 PM - 02:00 PM",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Working with the team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "02:00 PM - 3:30 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Release management session <p><b>Discussion Items: </b><p>How we can improve release management process</p> <p> <b>Location: </b> Kripa Meeting Room, 6th Floor </p> <p><b>Owner:</b> Raghu/Vishal/Sandeep </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "03:00 PM - 04:30 PM"
+					},
+					{
+						"content": "Break",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:30 PM",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Working with the team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "05:00 PM - 05:30 PM"
+					},
+					{
+						"content": "Wrap up & leave for the hotel",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "06:00 PM"
+					}
+				],
+				"name": "31st"
+			},
+			{
+				"agenda": [
+					{
+						"content": "Reach Global Axis TCS Office\\Clear Security <p><b>Owner:</b> Abhishek/Praneeth </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "09:30 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Working with the team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "10:00 AM - 11:00 AM"
+					},
+					{
+						"content": "<b>Topic: </b> Marvel project wrap up session <p><b>Discussion Items: </b><p>TCS strategy for the Marvel project</p> <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "11:00 AM - 12:00 PM"
+					},
+					{
+						"content": "Lunch - Team Lunch in EDR <p><b>Owner:</b> Tushar/Akash </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "12:00 PM - 01:30 PM",
+						"topic": ""
+					},
+					{
+						"content": "<b>Topic: </b> Working with the team <p> <b>Location: </b> Sandipani Meeting Room </p> <p><b>Owner:</b> Marvel team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "01:30 PM - 3:00 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Team meeting for Ab Initio <p><b>Discussion Items: </b><p>Current assignments, issues/showstoppers, customer feedback, work in pipeline</p> <p> <b>Location: </b> ODC 11 Meeting Room </p> <p><b>Owner:</b> Ab Initio team </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "03:00 PM - 04:00 PM"
+					},
+					{
+						"content": "<b>Topic: </b> Feedback session <p><b>Discussion Items: </b><p>All teams</p> <p> <b>Location: </b> Sandipani Meeting Room </p>",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:00 PM - 04:30 PM",
+						"topic": ""
+					},
+					{
+						"content": "Break - Coffee(GA Campus)",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "04:30 PM - 05:00 PM"
+					},
+					{
+						"content": "Wrap up & leave for hotel",
+						"date": "",
+						"location": "",
+						"session": "",
+						"time": "05:30 PM"
+					}
+				],
+				"name": "1st"
+			}
+		]
+	},
+	{
+		"companies": [
+			"Standard Life",
+			"TCS"
+		]
+	},
+	{
+		"visitLocations": [
+			"28th",
+			"29th",
+			"30th",
+			"31st",
+			"1st"
+		]
+	},
+	{
+		"visitDates": [
+			"Bangalore",
+			"Bangalore",
+			"Bangalore",
+			"Bangalore",
+			"Bangalore"
+		]
+	},
+	{
+		"tagLine": "A Warm and Hearty Welcome"
+	},
+	{
+		"Dates": [
+			{
+				"date": "28th",
+				"location": "Bangalore"
+			},
+			{
+				"date": "29th",
+				"location": "Bangalore"
+			},
+			{
+				"date": "30th",
+				"location": "Bangalore"
+			},
+			{
+				"date": "31st",
+				"location": "Bangalore"
+			},
+			{
+				"date": "1st",
+				"location": "Bangalore"
+			}
+		]
+	}
+
+]
